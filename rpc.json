@@ -1,0 +1,12 @@
+[
+    {
+        "id": 56,
+        "name": "BNB Smart Chain",
+        "symbol": "bsc",
+        "coin": "BNB",
+        "rps":[
+            "https://rpc.ankr.com/bsc",
+            "https://bsc-dataseed1.binance.org/"
+        ]
+    }
+]
